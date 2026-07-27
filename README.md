@@ -5,23 +5,20 @@
   I'm a Engineering student in the making, focused on crafting robust backend services and interactive frontends. I thrive on the entire software lifecycle—from designing microservices and REST APIs to creating clean, high-performance UIs.
 </p>
 
+<br>
+
 <h3 align="left">🚀 Featured Projects</h3>
-<table align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <b>🏦 Astra Bank</b><br/>
-      Microservices-based banking system. Features a Node.js backend, a highly secure C# .NET auth service, a React web dashboard, and a React Native mobile app.
-    </td>
-    <td width="33%" valign="top">
-      <b>🥽 KinalVR</b><br/>
-      360° interactive VR campus tour built with React and A-Frame for WebXR, powered by a Node.js/Express event server.
-    </td>
-    <td width="33%" valign="top">
-      <b>📚 PFKinalNotes</b><br/>
-      Monolithic academic management system built entirely with Java Spring Boot, JSF, and PrimeFaces.
-    </td>
-  </tr>
-</table>
+
+> **[🏦 Astra Bank](https://github.com/orgs/Grupo-1-Sistema-Bancario/repositories)** <br/>
+> Microservices-based banking system. Features a Node.js backend, a highly secure C# .NET auth service, a React web dashboard, and a React Native mobile app.
+
+> **[🥽 KinalVR](https://github.com/orgs/KinalVR-Expo2026/repositories)** <br/>
+> 360° interactive VR campus tour built with React and A-Frame for WebXR, powered by a Node.js/Express event server.
+
+> **[📚 PFKinalNotes](https://github.com/breyes396/PFKinalNotes)** <br/>
+> Monolithic academic management system built entirely with Java Spring Boot, JSF, and PrimeFaces.
+
+<br>
 
 <h3 align="left">🛠️ Tech Stack & Tools</h3>
 
@@ -68,9 +65,9 @@
 </p>
 
 <h3 align="left">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devfwilson&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27" alt="Wilson's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfwilson&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devfwilson&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="Wilson's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfwilson&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="Top Languages" />
 </p>
 
 <h3 align="left">📫 Let's connect!</h3>
