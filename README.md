@@ -84,8 +84,8 @@
   <a href="LINK_A_TU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="LINK_A_TU_PORTAFOLIO">
+  -->
+  <a href="https://portafolio-x0d9.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
   </a>
-  -->
 </p>
