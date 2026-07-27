@@ -64,11 +64,16 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
+<br>
+
 <h3 align="left">📈 GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devfwilson&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="Wilson's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfwilson&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" alt="Top Languages" />
+  <a href="https://github.com/devfwilson">
+    <img src="https://streak-stats.demolab.com/?user=devfwilson&theme=tokyonight&hide_border=true" alt="Wilson's GitHub Streak" />
+  </a>
 </p>
+
+<br>
 
 <h3 align="left">📫 Let's connect!</h3>
 <p align="left">
